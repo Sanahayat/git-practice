@@ -2,4 +2,3 @@ visited countries
 norway
 sweden
 germany
-Austria
